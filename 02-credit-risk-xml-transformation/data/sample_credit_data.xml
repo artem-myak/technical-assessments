@@ -1,0 +1,9 @@
+<ubkidata>
+  <comp descr="Фінансові зобов`язання" id="2">
+    <crdeal dlamt="10000.00" dlcurrref="UAH" dlrolesubref="Видавець">
+      <dlref>unique-deal-id-001</dlref>
+      <deallife dlamtexp="500.00" dldayexp="45" dlflstatref="відкрита" dlmonth="8" dlyear="2025"></deallife>
+      <deallife dlamtexp="0.00" dldayexp="0" dlflstatref="закрита" dldff="2025-06-20" dlmonth="6" dlyear="2025"></deallife>
+    </crdeal>
+  </comp>
+</ubkidata>
