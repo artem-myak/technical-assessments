@@ -1,0 +1,17 @@
+# Глобальне ігнорування XML (щоб випадково не викласти банківські дані)
+*.xml
+
+# Але дозволяємо анонімізовані приклади, якщо вони в папці samples
+!data_samples/*.xml
+!sample_*.xml
+
+# Python (кеш та віртуальні середовища)
+__pycache__/
+*.pyc
+venv/
+.env
+.ipynb_checkpoints/
+
+# Системні файли macOS/Windows
+.DS_Store
+Thumbs.db
