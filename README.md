@@ -20,8 +20,6 @@ To respect the intellectual property and confidentiality of the companies involv
     * Root Cause Analysis (RCA) framework for conversion funnel optimization.
 * **[View Solution](./01-ecommerce-behavioral-analytics)**
 
----
-
 ### 🛠 Skills Demonstrated
 * **Technical Proficiency:** Advanced SQL (Window functions, CTEs), data manipulation with `julianday` and `strftime`.
 * **Business Logic:** Ability to investigate conversion anomalies and suggest actionable growth hypotheses.
@@ -29,5 +27,13 @@ To respect the intellectual property and confidentiality of the companies involv
 * **Professional Ethics:** Strict adherence to data anonymization and confidentiality standards.
 
 ---
+
+### 2. Credit Risk Data Transformation (XML to Tabular)
+* **Business Task:** Automate the extraction of credit history data from nested XML files to evaluate borrower risk profiles. Calculate key portfolio metrics: Loan Closure Ratio and 30+ Days Overdue exposure.
+* **Stack:** Python (Pandas, ElementTree), Data Engineering, Risk Metrics.
+* **Key Deliverables:** * Automated ETL pipeline to parse multi-client XML datasets.
+    * Calculated Risk KPIs: Total Loan Count, Portfolio Closure Rate, and Amount at Risk (30+ DPD).
+    * Structured tabular dataset ready for Credit Scoring models.
+* **[View Solution](./02-credit-risk-xml-transformation)**
 
 Note: This project was completed as part of a professional pivot into Data Analysis.
