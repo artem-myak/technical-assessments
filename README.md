@@ -12,12 +12,22 @@ To respect the intellectual property and confidentiality of the companies involv
 
 ## 📂 Case Studies
 
+### 1. E-commerce Behavioral Analytics & A/B Test Audit
+* **Business Task:** Analyze user acquisition and retention patterns for a digital platform. Evaluate the statistical significance of a UI experiment (A/B test) and develop a troubleshooting framework for a 15% conversion drop.
+* **Stack:** SQL (SQLite/PostgreSQL), Statistics (A/B testing), Product Analytics.
+* **Key Deliverables:** * Cohort Analysis model (Retention Day 1, 7, 30).
+    * A/B test audit with a focus on p-value and guardrail metrics.
+    * Root Cause Analysis (RCA) framework for conversion funnel optimization.
+* **[View Solution](./01-ecommerce-behavioral-analytics)**
+
 ---
 
-## 🛠 Skills Demonstrated
-* **Problem Solving:** Translating vague business questions into data-driven hypotheses.
-* **Rapid Prototyping:** Delivering high-quality insights within tight recruitment deadlines (usually 24–72 hours).
-* **Communication:** Presenting technical findings in a way that is actionable for stakeholders and product managers.
+### 🛠 Skills Demonstrated
+* **Technical Proficiency:** Advanced SQL (Window functions, CTEs), data manipulation with `julianday` and `strftime`.
+* **Business Logic:** Ability to investigate conversion anomalies and suggest actionable growth hypotheses.
+* **Statistical Intuition:** Understanding of sample power, significance levels, and MDE in experiments.
+* **Professional Ethics:** Strict adherence to data anonymization and confidentiality standards.
 
 ---
+
 Note: This project was completed as part of a professional pivot into Data Analysis.
